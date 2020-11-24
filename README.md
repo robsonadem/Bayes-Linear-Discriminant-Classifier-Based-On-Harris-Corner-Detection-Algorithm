@@ -1,4 +1,4 @@
-# Bayes-Linear-Discriminant-Classifier-Based-On-Harris-Cornet-Detection-Algorithm
+# Bayes-Linear-Discriminant-Classifier-Based-On-Harris-Corner-Detection-Algorithm
 
 
 
